@@ -1,7 +1,17 @@
+This repository provides some scripts to retrieve Leonardo Da Vinci's
+manuscripts from public source.
+
+** Dependencies
+- zsh
+- GNU parallel
+- convert
+- pdftk
+
+** Sources
 - [[http://www.codex-atlanticus.it][Codex Atlanticus]]
 - Paris Manuscripts
-  - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHIR1P7][Manuscript A]]
-  - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHI0OSW][Manuscript B]]
+  - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHIR1P7][Manuscript A]], [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHI0VWD][complement]]
+  - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHI0OSW][Manuscript B]], [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHI0PHR][complement]]
   - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHIROKW][Manuscript C]]
   - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHIRIRI][Manuscript D]]
   - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHIRZHQ][Manuscript E]]
@@ -11,5 +21,3 @@
   - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHIR49U][Manuscript I]]
   - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHIYXF4][Manuscript K]]
   - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHJMC_Y][Manuscript L]]
-  - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHI0VWD][Manuscript A (complement)]]
-  - [[https://www.photo.rmn.fr/C.aspx?VP3=SearchResult_VPage&STID=2C6NU0AHI0PHR][Manuscript B (complement)]]
